@@ -1,1 +1,1 @@
-# BinaySratch_Algorithm
+# BinaySearch_Algorithm
